@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hasandi/greeter.git"
+    "url": "git+https://github.com/hasandi/my-fabulous-greeter.git"
   },
   "files": [
     "lib/**/*"
@@ -26,9 +26,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hasandi/greeter/issues"
+    "url": "https://github.com/hasandi/my-fabulous-greeter/issues"
   },
-  "homepage": "https://github.com/hasandi/greeter#readme",
+  "homepage": "https://github.com/hasandi/my-fabulous-greeter#readme",
   "devDependencies": {
     "@types/jest": "^25.1.2",
     "@typescript-eslint/eslint-plugin": "^2.19.0",
